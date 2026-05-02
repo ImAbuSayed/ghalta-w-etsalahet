@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 4fe42068ad18034632065e01648f3610314c4ca1
+> يا نور العين في قلبي ساكن
+> بين الروح والشوق الغالي
+> طيفك دايم في بالي كاين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
