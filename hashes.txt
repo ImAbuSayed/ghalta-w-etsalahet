@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghalta W Etsalahet
+
+This log tracks the cryptographic history and versioning for the song **Ghalta W Etsalahet** (ghalta-w-etsalahet).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:46:35.119019 | `v1` | `ecbccedb7a924c1645c00a2cb38bbbd6512b855ff6a489a8ee9aa40350b24272` | `7f2f435a46ff241b0e218e8b0dcc51fc337f4496e4485a78000d19d31113814d` | `2026-05-08_ghalta-w-etsalahet-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
